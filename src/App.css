@@ -1,0 +1,14 @@
+#root {
+  margin: 0;
+}
+
+.App {
+  height: 100vh;
+}
+
+.point {
+  display: inline-block;
+  position: absolute;
+  border: 6px solid black;
+  border-radius: 100px;
+}
